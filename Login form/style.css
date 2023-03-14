@@ -44,6 +44,7 @@ body{
     width: 170%;
     height: 170%;
     content: '';
+    
     background-image: conic-gradient(transparent, transparent, transparent, #00ccff);
     animation: rotate_border 6s linear infinite;
     animation-delay: -3s;
