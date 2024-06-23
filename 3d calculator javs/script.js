@@ -7,7 +7,7 @@ for(let i=0; i<btn.length; i++){
         if(this.innerHTML == '='){
             value.innerHTML = eval(value.innerHTML);
         }else{
-            // clear result
+            // clear result screen
             if(this.innerHTML == 'Clear'){
                 value.innerHTML = "";
             }else{
